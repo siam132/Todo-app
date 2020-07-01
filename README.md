@@ -2,7 +2,7 @@
 > ##  Simple TODO app using redux and react-redux 📦
 
 
-![](demo vid/demoVid.gif)
+![](demoVid.gif)
 
 
 ### To run the app type
